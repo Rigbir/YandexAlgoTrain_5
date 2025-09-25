@@ -26,4 +26,4 @@ add_executable(Test8 task_8.cpp)
 add_executable(Test9 task_9.cpp)
 add_executable(Test10 task_10.cpp)
 
-target_compile_options(quick__merge__radix_sort PRIVATE -Wextra -Werror)
+target_compile_options(complexity__testing__special_cases PRIVATE -Wextra -Werror)
